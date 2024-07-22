@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+http://gsacademy-ko.sakura.ne.jp/cheeseacademy_kadai/html_kadai_01/index.html
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
